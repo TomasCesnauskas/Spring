@@ -1,0 +1,71 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-beans-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-messaging-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-beans-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jcl-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-indexer-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-webflux-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-webmvc-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-oxm-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-messaging-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-support-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-webflux-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-aspects-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-orm-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-expression-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-aspects-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-aop-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-aspects-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-oxm-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-websocket-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jms-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-web-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-websocket-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-test-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-instrument-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-tx-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-web-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-expression-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-tx-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-web-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-indexer-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-core-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-oxm-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-webflux-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-aop-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-tx-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-support-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-orm-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-instrument-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-instrument-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-aop-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jcl-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-messaging-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jms-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-webmvc-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-beans-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jms-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jdbc-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-expression-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-test-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-core-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jdbc-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-test-5.2.9.RELEASE-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-indexer-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-webmvc-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-orm-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-context-support-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jdbc-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-core-5.2.9.RELEASE-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-websocket-5.2.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/Spring-Demo-Annotations/libs/spring-jcl-5.2.9.RELEASE-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
