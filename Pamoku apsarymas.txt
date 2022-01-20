@@ -1,0 +1,10 @@
+Spring-9
+Tomcat instalas
+Spring-10
+*Beisbolo treneris aplikacija
+*JDK 1.8; Tomcat; istaliacija.
+*libs isikelimas i intelij. Intelij susiejimas su tomcat.
+
+Spring-11
+*kuriam beans, pakuriam pirma string app
+*
