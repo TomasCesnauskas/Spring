@@ -12,3 +12,14 @@ Spring-11
 Spring 17
 *pradedam Spring MVC
 *konfiguracija
+
+Spring 20
+
+*MVC-- 
+*formos pildymas; drop list, 
+
+Spring 21
+
+*pabaigem MVC
+*pradedam duomenu validacija
+*susisiunt4m jar failus 7 
