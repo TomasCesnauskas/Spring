@@ -23,3 +23,9 @@ Spring 21
 *pabaigem MVC
 *pradedam duomenu validacija
 *susisiunt4m jar failus 7 
+
+Spring 22
+
+*Validacijos
+*pradedam Hibernate
+*Hibernate - freimworkas apjungiantis objektus su duombazes lenta.
