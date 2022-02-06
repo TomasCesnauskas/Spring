@@ -2,6 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+    <%--    reference our stylesheet--%>
+    <link type="text/css"
+          rel="stylesheet"
+          href="${pageContext.request.contextPath}/resources/css/style.css"/>
     <title>
         Customer list
     </title>
@@ -13,22 +17,43 @@
     </div>
 </div>
 <div id="container">
+    <div id="content">
+        <%--        put new button-add customer--%>
+        <input type="button" value="Add customer"
+               onclick="window.location.href='showFormForAdd'; return false;"
+               class="add-button"/>
+    </div>
+
     <%--    add our html table here--%>
     <table>
         <tr>
             <th>First name</th>
             <th>Last name</th>
             <th>Email</th>
+            <th>Action</th>
         </tr>
 
         <%--        loop and print out customers--%>
         <c:forEach var="customer" items="${customers}">
-            <tr>
-                <td>${customer.firstName}</td>
-                <td>${customer.lastName}</td>
-                <td>${customer.email}</td>
+
+            <%--                Construct update link with customer id--%>
+            <c:url var="updateLink" value="/customer/showFormForUpdate">
+                <c:param name="customerId" value="${customer.id}">
+
+                </c:param>
+            </c:url>
             </tr>
-        </c:forEach>
+
+        <tr>
+            <td>${customer.firstName}</td>
+            <td>${customer.lastName}</td>
+            <td>${customer.email}</td>
+            <td>
+                <%--                display update link--%>
+                <a href="${updateLink}">Update</a>
+            </td>
+
+            </c:forEach>
     </table>
 </body>
 </html>
